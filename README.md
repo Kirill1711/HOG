@@ -1,1 +1,1 @@
-https://github.com/Kirill1711/hog/
+https://kirill1711.github.io/hog/
